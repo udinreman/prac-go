@@ -1,0 +1,2 @@
+# prac-go
+go practice
